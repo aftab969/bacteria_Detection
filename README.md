@@ -6,12 +6,12 @@ This project uses a customized **DenseNet-169** deep learning model for classify
 
 ## 📁 Dataset Structure
 
-Make sure your dataset is structured as follows and contains **`.tif` images**:
+Dataset is structured as follows and contains **`.tif` images**:
 
 dataset_split/ ├── train/ │ ├── positive/ │ └── negative/ ├── val/ │ ├── positive/ │ └── negative/ └── test/ ├── positive/ └── negative/
 
 
-Each subfolder (`positive`, `negative`) should contain `.tif` images of bacteria samples.
+
 
 ---
 
